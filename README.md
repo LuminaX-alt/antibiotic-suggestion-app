@@ -69,8 +69,7 @@ antibiotic-llm-system/
 
 <img width="2205" height="395" alt="image" src="https://github.com/user-attachments/assets/a4ed876e-3c35-446b-aebc-b126d4c26f36" />
 
-<img width="1526" height="696" alt="image" src="https://github.com/user-
-attachments/assets/a505c091-e834-4cbe-821e-c2cecbc840b4" />
+<img width="1526" height="696" alt="image" src="https://github.com/user-attachments/assets/a505c091-e834-4cbe-821e-c2cecbc840b4" />
 
 <img width="2866" height="1439" alt="image" src="https://github.com/user-attachments/assets/f05e3d96-3db9-4602-9631-accc56213f78" />
 

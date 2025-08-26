@@ -61,8 +61,21 @@ antibiotic-llm-system/
 ```
 <img width="2823" height="1644" alt="image" src="https://github.com/user-attachments/assets/381fe962-97c1-4af1-99ae-db384f0a6614" />
 
-
 <img width="1440" height="900" alt="Screenshot 2025-08-26 at 8 34 00 PM" src="https://github.com/user-attachments/assets/b98ec16a-c6a4-477b-8675-2fb229a433e6" />
+
+<img width="2153" height="1438" alt="image" src="https://github.com/user-attachments/assets/88ef08a0-030b-492b-8834-a48cafb6e69c" />
+
+<img width="2148" height="1434" alt="image" src="https://github.com/user-attachments/assets/faae3136-e48f-4ec5-b6dc-da3510edf76d" />
+
+<img width="2205" height="395" alt="image" src="https://github.com/user-attachments/assets/a4ed876e-3c35-446b-aebc-b126d4c26f36" />
+
+<img width="1526" height="696" alt="image" src="https://github.com/user-
+attachments/assets/a505c091-e834-4cbe-821e-c2cecbc840b4" />
+
+<img width="2866" height="1439" alt="image" src="https://github.com/user-attachments/assets/f05e3d96-3db9-4602-9631-accc56213f78" />
+
+<img width="2868" height="1438" alt="image" src="https://github.com/user-attachments/assets/0a294c08-e11e-4d3c-973f-6c0acf684c43" />
+
 
 
 ## Development Guidelines

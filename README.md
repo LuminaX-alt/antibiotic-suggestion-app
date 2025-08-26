@@ -59,6 +59,8 @@ antibiotic-llm-system/
 ├── tests/                 # Test suites
 └── requirements.txt       # Python dependencies
 ```
+<img width="1440" height="900" alt="Screenshot 2025-08-26 at 8 34 00 PM" src="https://github.com/user-attachments/assets/b98ec16a-c6a4-477b-8675-2fb229a433e6" />
+
 
 ## Development Guidelines
 
